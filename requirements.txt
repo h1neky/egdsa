@@ -1,0 +1,5 @@
+aiogram
+loguru
+openai
+Pillow
+openai_async
